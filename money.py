@@ -13,7 +13,7 @@ import os
 # 아래 숫자들을 원하시는 최신 값으로 직접 수정해 주세요!
 # ===========================================================
 DEFAULT_TARGET_CNY = 210.0       # 🎯 CNY 목표 환율 (예: 210원)
-DEFAULT_TARGET_USD = 1460.0      # 🎯 USD 목표 환율 (예: 1450원)
+DEFAULT_TARGET_USD = 1500.0      # 🎯 USD 목표 환율 (예: 1450원)
 
 DEFAULT_BASE_DATE = "2026-07-05" # 🏦 초기 잔고 기준 날짜
 DEFAULT_BASE_CNY = 15102.45     # 🏦 초기 CNY 잔고
